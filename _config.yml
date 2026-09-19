@@ -3,16 +3,16 @@ repository: ml_web
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
 name: Huanhuan(Milian) Chen
-# title: Your job title
+title: Rigger / Technical Animator
 email: miliuumeru@gmail.com
 # email_title: Email (Email title override)
-phone: (86) 193-0213-7201
+phone: (1) 236-966-1414
 # phone_title: Phone (Phone title override)
-website: https://https://miliuumeru.github.io/ml_web
+website: https://miliuumeru.github.io/ml_web
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -97,6 +97,10 @@ content:
       ![](images/SEED_8.jpg)
       ![](images/SEED_9.jpg)
 
+      ![](images/SEED_14.gif)
+      ![](images/SEED_13.gif)
+      ![](images/SEED_15.gif)
+
 
       #### **Animation & Compositing**
 
@@ -109,8 +113,6 @@ content:
 
 
       #### **Final Clips**
-
-      Final shots demonstration.
 
 
       ![](images/SEED_1.gif)
@@ -258,20 +260,20 @@ content:
 
 
       ![](images/B&G_7.jpg)
-  - title: Character Design
-    layout: text
-    content: |
-      ![](images/Chara_Poster_2.jpg)
+  # - title: Character Design
+  #   layout: text
+  #   content: |
+  #     ![](images/Chara_Poster_2.jpg)
 
 
-      #### **Overview**
+  #     #### **Overview**
 
-      Doom is a demon that exists beyond human awareness. It appears only when people let their guard down, slipping in to steal their clarity of mind.
+  #     Doom is a demon that exists beyond human awareness. It appears only when people let their guard down, slipping in to steal their clarity of mind.
 
-      For those it captures, Doom forcibly pries open their consciousness—not harming their physical body, but stoling their sanity. After losing sense of reason, victims often make foolish choices they later regret.
+  #     For those it captures, Doom forcibly pries open their consciousness—not harming their physical body, but stoling their sanity. After losing sense of reason, victims often make foolish choices they later regret.
       
       
-      ![](images/des_1.jpg)
+  #     ![](images/des_1.jpg)
   - title: 3D Printing
     layout: text
     content: |
@@ -296,7 +298,7 @@ content:
     content:
       - layout: left
         title: MIHOYO
-        sub_title: Animator
+        sub_title: Facial Rigger
         caption: 2025.4 — 2025.11
         link: https://www.mihoyo.com/
         quote: >
@@ -316,6 +318,8 @@ content:
         description: |
           Animal rigging,
           Animation system implementation in-engine.
+          
+          ![](images/UBI_3.gif)
 
           ![](images/UBI_1.gif)
 
