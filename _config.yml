@@ -2,8 +2,8 @@
 repository: ml_web
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
-# Content configuration version
-version: 3
+# Content configuration schema version (the layout requires 2 for the sections below)
+version: 2
 
 # Personal info
 name: Huanhuan(Milian) Chen
