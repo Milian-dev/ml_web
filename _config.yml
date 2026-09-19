@@ -153,6 +153,12 @@ content:
 
 
       ![](images/Pet_Script.jpg)
+
+      ![](images/AR_Poster.jpg)
+
+      ![](images/sanmao_2.gif)
+
+
   - title: Tool
     layout: text
     content: |
@@ -182,8 +188,6 @@ content:
   - title: Concept Design
     layout: text
     content: |
-      ![](images/Punk_Poster.jpg)
-
       #### **Overview**
 
       This project explores a biopunk world-building concept set in a fantastical post-apocalyptic landscape.
@@ -206,45 +210,20 @@ content:
 
 
       ![](images/Biopunk_1.jpg)
-  # - title: Concept Design
-  #   layout: text
-  #   content: |
-  #     ![](images/Con_Poster.jpg)
 
+      #### **Game Concept(3D)**
 
-  #     #### **Overview**
-  #     The protagonist is a human child, who was adopted by a community of "Thorns". Through Tarquin’s encounters with the "Thorns"—creatures who looks gentle can become dangerous, she gradually uncovers the reality behind appearances.
+      ![](images/mr_1.jpg)
+      ![](images/mr_2.jpg)
 
-
-  #     ![](images/mr_2.png)
-
-
-  #     ![](images/mr_1.jpg)
-
-
-  #     ![](images/mr_3.jpg)
-  - title: Concept Design
-    layout: text
-    content: |
-      ![](images/Con_Poster_2.jpg)
-
-
-      #### **Overview**
+      #### **Concept**
 
       A small town inhabited by worms who live peaceful, contented lives. 
 
 
       ![](images/Worm_town.jpg)
 
-
-      ![](images/Worm_town_2.jpg)
-  - title: Character Design
-    layout: text
-    content: |
-      ![](images/Chara_Poster.jpg)
-
-
-      #### **Overview**
+      #### **Character Design**
 
       Aili and Devin are police partners and ... soulmates.
 
@@ -260,26 +239,10 @@ content:
 
 
       ![](images/B&G_7.jpg)
-  # - title: Character Design
-  #   layout: text
-  #   content: |
-  #     ![](images/Chara_Poster_2.jpg)
-
-
-  #     #### **Overview**
-
-  #     Doom is a demon that exists beyond human awareness. It appears only when people let their guard down, slipping in to steal their clarity of mind.
-
-  #     For those it captures, Doom forcibly pries open their consciousness—not harming their physical body, but stoling their sanity. After losing sense of reason, victims often make foolish choices they later regret.
       
-      
-  #     ![](images/des_1.jpg)
   - title: 3D Printing
     layout: text
     content: |
-      ![](images/Printing_Poster.jpg)
-
-
       #### **Overview**
 
       This character is inspired by a book called Shui Hu Zhuan (Water Margin).
